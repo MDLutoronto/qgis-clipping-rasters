@@ -231,3 +231,5 @@ interested in Toronto's islands and port lands.
 The new map extent should look like this:
 
 ![](assets/images/image14.png)
+
+**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [QGIS](https://mdlutoronto.github.io/tutorials-search/?tool=QGIS) \| **Data Format:** [DEM](https://mdlutoronto.github.io/tutorials-search/?dataFormat=DEM), [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster)
